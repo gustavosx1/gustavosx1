@@ -33,6 +33,7 @@ Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em fron
 | Sistema de Tickets | Sistema de compra de tickets para restaurantes universitários | [Repositório](https://github.com/gustavosx1/Projeto-SBDE) |
 | Aplicativo de Câmbio | Aplicativo de câmbio de moedas com login e API's em Flutter Dart | [Repositório](https://github.com/gustavosx1/projeto-cambio.git) |
 | E-commerce Ótica | E-commerce completo com React, TypeScritpt, Tailwind e PostgreSQL | [Repositório](https://github.com/gustavosx1/Projeto-Ecom) |
+| Servidor HTTP | Servidor HTTP/1.1 feito do zero em GO | [Repositório](https://github.com/gustavosx1/http-server) |
 
 ---
 
