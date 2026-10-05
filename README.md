@@ -1,73 +1,54 @@
 # Olá, eu sou Gustavo Rocha 👋
 
-## 💻 Sobre mim
-Sou estudante de Sistemas de Informação e desenvolvedor apaixonado por criar soluções inovadoras e eficientes.  
-Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em front-end e back-end.
+Desenvolvedor e estudante de Sistemas de Informação, interessado em criar produtos digitais úteis, acessíveis e bem construídos. Tenho experiência com desenvolvimento web e mobile e gosto de acompanhar um projeto da ideia à entrega.
 
----
+🌐 **Portfólio oficial:** [gusta-portfolio.netlify.app](https://gusta-portfolio.netlify.app)
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Projetos em destaque
 
+### [Prisma News](https://www.prismanews.com.br/)
+**Meu principal projeto: um aplicativo mobile desenvolvido com Expo e TypeScript, com serviços em Python.** O Prisma News reúne, em um só lugar, como veículos de diferentes linhas editoriais cobrem o mesmo acontecimento. As notícias são organizadas por fato para facilitar a comparação de perspectivas. A proposta não é prometer imparcialidade absoluta, mas oferecer contexto: a leitura pode ser complementada por verificações apoiadas em documentos públicos e fontes verificáveis, para que cada pessoa tire suas próprias conclusões.
 
+### [InvesCHAT](https://inves-chat.vercel.app/)
+Chatbot de auxílio à educação financeira, desenvolvido como Trabalho de Conclusão de Curso no IFMA.
+
+### [Kimberly Zucatelli — Semana Detox](https://semana-detox.com/)
+Landing page criada para a influenciadora digital Kimberly Zucatelli.
+
+### Outros projetos
+- [Sistema de Tickets](https://github.com/gustavosx1/Projeto-SBDE) — compra de tickets para restaurantes universitários.
+- [Aplicativo de Câmbio](https://github.com/gustavosx1/projeto-cambio) — aplicativo mobile com autenticação e consulta de câmbio.
+- [E-commerce para ótica](https://github.com/gustavosx1/Projeto-Ecom) — loja virtual desenvolvida com React, TypeScript, Tailwind CSS e PostgreSQL.
+- [Servidor HTTP](https://github.com/gustavosx1/http-server) — implementação de um servidor HTTP/1.1 em Go.
+
+## 🛠️ Tecnologias
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+## 📈 GitHub
 
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosx1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosx1&layout=compact&theme=radical)
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Sistema de Tickets | Sistema de compra de tickets para restaurantes universitários | [Repositório](https://github.com/gustavosx1/Projeto-SBDE) |
-| Aplicativo de Câmbio | Aplicativo de câmbio de moedas com login e API's em Flutter Dart | [Repositório](https://github.com/gustavosx1/projeto-cambio.git) |
-| E-commerce Ótica | E-commerce completo com React, TypeScritpt, Tailwind e PostgreSQL | [Repositório](https://github.com/gustavosx1/Projeto-Ecom) |
-| Servidor HTTP | Servidor HTTP/1.1 feito do zero em GO | [Repositório](https://github.com/gustavosx1/http-server) |
-
----
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavosx1&show_icons=true&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosx1&layout=compact&theme=github_dark)
 
 ## 📬 Contato
 
-- Email: gustavosantos.kng@gmail.com
-- LinkedIn: [linkedin.com/in/gustavorocha](https://www.linkedin.com/in/gustavo-bandeira-rocha/)  
+- Email: [gustavosantos.kng@gmail.com](mailto:gustavosantos.kng@gmail.com)
+- LinkedIn: [Gustavo Bandeira Rocha](https://www.linkedin.com/in/gustavo-bandeira-rocha/)
 
 ---
 
-## 🎯 Objetivos
-
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento front-end e explorar novas tecnologias para criar experiências de usuário excepcionais.
-
----
-
-## 🔗 Conecte-se comigo!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-bandeira-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gustavosantos.kng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-> "Aprender nunca é demais. Codar é minha paixão!" 💻✨
+> Aprender nunca é demais. Codar é minha paixão! 💻✨
